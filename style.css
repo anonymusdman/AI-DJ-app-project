@@ -1,0 +1,12 @@
+body {
+    background-image: url(Toyota\ Chaser\ JZX100\ Tourer\ V.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.note{
+    width: 100%;
+}
+#song{
+    text-align: center;
+    background-color: azure;
+}
